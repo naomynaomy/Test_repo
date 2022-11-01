@@ -1,3 +1,7 @@
-# Test_repo
+# FinTech Repository
+## FinTech Repository
+### FinTech Repository
 
-I am testing the version control capabilities of Git and GitHub.
+Welcome to my repository of FinTech project. Please explore the codebase!
+
+Still Testing
