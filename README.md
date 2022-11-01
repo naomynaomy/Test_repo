@@ -4,4 +4,3 @@
 
 Welcome to my repository of FinTech project. Please explore the codebase!
 
-Still Testing
